@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hadoop-cookbook-chapter1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/lib/hadoop-cookbook-chapter1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
